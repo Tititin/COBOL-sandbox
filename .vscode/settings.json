@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "GnuCOBOL": {
+            "path": "C:\\Windows\\System32\\cmd.exe",
+            "args": [
+                "/k",
+                "C:\\Users\\valentin.rouquet\\Documents\\Projets\\gnucobol\\set_env.cmd"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "GnuCOBOL"
+}
